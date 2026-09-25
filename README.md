@@ -1,1 +1,3 @@
-# ptas-sep25
+## Sobre
+
+Projeto didático de Git.
